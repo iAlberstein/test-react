@@ -1,0 +1,12 @@
+.NavBar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.Categories {
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+}
